@@ -1,0 +1,52 @@
+@font-face {
+  font-family: poppinsBlack;
+  src: url("../resources/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: poppinsRegular;
+  src: url("../resources/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: interFont;
+  src: url("../resources/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+.heroSection {
+  font-family: poppinsBlack;
+}
+
+.heroSectionBottomPart {
+  font-family: poppinsRegular;
+}
+
+.shoesBox {
+  background: rgba(30, 30, 53, 0.5);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(30, 30, 53, 0.25);
+}
+
+.inter {
+  font-family: interFont;
+  letter-spacing: 20px;
+}
+
+.poppinsblack {
+  font-family: poppinsBlack;
+}
+
+.gradient {
+  background: #d3d3d3;
+  background: -webkit-linear-gradient(0deg, #d3d3d3 0%, #a9a9a9 100%);
+  background: linear-gradient(0deg, #d3d3d3 0%, #a9a9a9 100%);
+}
+
+.image-Container{
+  width:300px;
+  height:300px;
+  min-width:100px;
+  min-height:100px;
+  object-fit:contain;
+}

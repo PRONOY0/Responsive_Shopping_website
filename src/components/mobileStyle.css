@@ -1,0 +1,177 @@
+@media only screen and (min-width:768px) and (max-width:1440px)  {
+    .MultipleSectionDiv {
+        gap: 50px;
+    }
+
+    .MultipleSectionDiv a{
+        font-size: 25px;
+    }
+
+    .MultipleSectionDiv img{
+        width:180px;
+    }
+
+    .LoginAndCartDiv a button{
+        width:100px;
+        height:40px;
+        margin-top:25px;
+        margin-left:-100px;
+        font-size: 20px;
+    }
+
+    .heroSectionHeading{
+        font-size:60px;
+        line-height:90px;
+    }
+
+    .heroSectionYellowDiv{
+        width:400px;
+        height: 85px;
+        margin-top:276px;
+    }
+
+    .heroSection{
+        margin-left: -40px;
+    }
+
+    .heroSection img{
+        width:700px;
+        margin-left: 50px;
+    }
+
+    .brandDiv{
+        height:150px;
+        display: flex;
+        gap:0px;
+        justify-content: space-between;
+    }
+
+    .brandDiv img{
+        width:60px;
+        height:30px;
+        margin-left:45px;
+    }
+
+    .newArrivalsDiv h2{
+        font-size: 40px;
+    }
+
+    .newArrivalsDiv div{
+        margin-top: 5px;
+        margin-left:185px;
+        width:200px;
+        height:40px;
+    }
+
+    .yellowShoesDiv{
+        height:800px;
+        margin-left: 50px;
+    }
+
+    .nikeRepeatedWords{
+        margin-left: 20px;
+    }
+
+    .nikeRepeatedWords p{
+        font-size: 85px;
+        margin-top: 15px;
+    }
+
+    .shoesBox{
+        width:700px;
+        height:670px;
+        margin-left: -630px;
+    }
+
+    .brandingtext {
+        font-size: 40px;
+    }
+
+    .shoesName{
+        font-size: 40px;
+        padding-top: 2px;
+    }
+
+    .ShoeDescription{
+        font-size: 20px;
+        text-align: start;
+        margin-left: 70px;
+    }
+
+    .shoePrice{
+        font-size: 45px;
+        text-align: start;
+        margin-left: 70px;
+    }
+
+    .shoesTextDetails{
+        font-size: 17px;
+        margin-left: 10px;
+    }
+
+    .shoesIcon{
+        margin-left: 40px;
+    }
+
+    .shoeImage{
+        width:400px;
+        margin-left: -320px;
+        margin-top: -450px;
+    }
+
+    .shoesBuyButton{
+        margin-top: 50px;
+    }
+
+    .sale-section{
+        height: 550px;
+        gap: 0px;
+    }
+
+    .salePic{
+        width:550px;
+    }
+
+    .paydayText{
+        font-size: 60px;
+        margin-left:0px;
+        margin-top: 110px;
+    }
+
+    .sale-section{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .sale-section-right{
+        margin-top: -90px;
+    }
+
+    .whiteDiv{
+        height: 70px;
+        margin-top: 100px;
+    }
+
+    .dwnldText{
+        font-size: 42px;
+    }
+
+    .descriptionText{
+        font-size: 25px;
+        padding-top: -50px;
+    }
+
+    .endPage-leftSection{
+        margin-left: -90px;
+    }
+
+    .lastDivLinks{
+        font-size: 17px;
+        width:140px;
+    }
+
+    .endPage-rightSection{
+        margin-left: -5px;
+    }
+}

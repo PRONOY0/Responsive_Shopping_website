@@ -1,0 +1,9 @@
+.slider .thumb{
+    width: 23px;
+    height: 23px;
+    cursor: grab;
+    background: #adff45;
+    border-radius: 100%;
+    border:2px solid green;
+    margin-top: -8px;
+}
